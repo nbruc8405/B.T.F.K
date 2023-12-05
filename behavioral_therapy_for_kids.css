@@ -1,0 +1,140 @@
+h1{
+	font-family:cursive,Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#FFC300;
+	font-size: 72px;
+	text-align: center;
+}
+h2{
+|color:#003366; 
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-align:left;
+}
+h3{
+|color:#003366;
+	font-family:cursive, Arial, Helvetica, sans-serif;
+	font-size:72px;
+	text-align:center;
+}
+h4{
+|	color:003366;	
+	font-family:cursive, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	text-align:center;
+}
+h5{
+|	color:003366;	
+	font-family:cursive, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	text-align:right;
+}
+p{
+	color:#003366;
+	font-size:20px;
+}	
+a{
+	color:#FFC300;
+}
+	
+body {
+|color:#003366;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:24px;
+}
+
+navi{
+	width:95px;
+	height:75px;
+	background-color:#003366;
+}
+nav ul li{
+	color:#FFC300;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	list-style:none;
+	float:left;
+}
+nav ul li a{
+	color:#FFC300;
+	text-decoration:none;
+}
+
+nav ul li a:hover{
+	color:#003366;
+	background-color:#FFC300;
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;
+}
+ol{
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:white;	
+	
+	
+
+li {
+  float: center;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+	
+.center {
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+
+.image-container {
+  position:relative;
+  display:inline-block;
+}
+
+
+.overlay-text {
+  position:absolute;
+  Top:47%; 
+  right:50%; 
+  transform:translate(-50%,-50%); 
+  background-color:#ffffff;
+  color:#003366;
+  padding:10px; 
+  font-family:Cursive,Arial, Helvetica, sans-serif;
+	text-align:center;
+  font-size:40px; 
+  vertical-align:bottom;
+}
+table{
+	background-color:#006699;
+	Padding:50px;
+	border:collapse;
+}
+th{
+	color:#003366;
+	background-color:white;
+	font-family:Arial, Helvetica, sans-serif;
+}
+td{
+	color:white;
+}
+td.center {
+    text-align: center;
+}
+
